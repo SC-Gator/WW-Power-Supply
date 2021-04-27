@@ -5,9 +5,14 @@ and https://github.com/MyModularJourney/Octobus
 
 Ultimately based on MFOS Wall Wart Supply http://musicfromouterspace.com/analogsynth_new/WALLWARTSUPPLY/WALLWARTSUPPLY.php
 
-Revision - 2
+Revision - 2 (Built, Working)
 
 * 100mm x 99mm board for cost
 * (4) 4700uF Caps instead of (6) 3300uF Caps
-* DC jack and 2-terminal connectors for 12VAC input
-* 3-terminal connector and 10-pin euro power connectors for output
+* DC jack and (2) 2-terminal connectors for 12VAC input and daisy chaining
+* 3-terminal connector and (5) 10-pin Euro power connectors for output
+
+Revision - 3 (In Process)
+
+* Larger heat sinks
+* More 10-pin Euro power connectors
