@@ -5,6 +5,11 @@ and https://github.com/MyModularJourney/Octobus
 
 Ultimately based on MFOS Wall Wart Supply http://musicfromouterspace.com/analogsynth_new/WALLWARTSUPPLY/WALLWARTSUPPLY.php
 
+Revision - 3 (Built, Working)
+
+* Modified layout to allow larger heatsinks
+* (8) 10-pin Euro power connectors
+
 Revision - 2 (Built, Working)
 
 * 100mm x 99mm board for cost
